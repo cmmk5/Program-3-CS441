@@ -1,0 +1,12 @@
+I first created a division function, where failure is when y is divided by 0 which throws failure "Division by zrto" and success if not.
+Then I created a function that verifies if an id is valid.
+The id-search allows the program to search for the state of the id.
+upd-state updates the state of the variable by removing the last id and entering the new one.
+rem-id simply just removes that variable and gives and Error message.
+
+For the Evaluator portion I did use chatGPT to help me create the recursive evaluator function as that was kind of difficult for me, this is the only part that I really needed help with. I thought it really helped me out, I was getting stuck trying to create the whole evaluator by myself.
+And the last part is a loop-run function that creates the loop so you can type in the expression into Racket and it will output the results, whether its an error or runs the expression. And the last statement runs the loop.
+
+I think using LLM's was very helpful this semester, I've never really had to use them in Python or C++ but I just found Racket to be a weird and not my type of Program. I would like to expand out to other LLM's and get more use other than ChatGPT.
+
+What I got from this semester is how to really work hand and hand with LLMs and using it with your programs, as well as learning Racket of course. I will say I'm not a huge fan of Racket, but i thoroughly enjoyed this semester.
